@@ -1,4 +1,4 @@
-# sha256
+# libsha256
 
 A minimal library for computing SHA 256 digests.
 
