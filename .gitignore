@@ -1,0 +1,9 @@
+# Build products
+/build
+/dist
+
+# macOS Finder
+.DS_Store
+
+# Visual Studio Code
+.vscode
